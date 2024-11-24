@@ -3,9 +3,9 @@ SCION Applications
 
 This repository contains technical documentation for mature SCION applications.
 
-Before you can use any of the SCION applications, you must have access to a SCION network and have a SCION endhost stack installed on your host. 
+Before you can use any of the SCION applications, you must have access to a SCION network and have a SCION endhost stack installed on your host.
 Start with :doc:`Access and Host configuration <applications/access>` to learn how to configure your host.
-   
+
 .. note::
    This is a work in progress and more applications will be added soon.
    If you are interested in your application being documented here, please contact us.
@@ -24,7 +24,7 @@ Please, find us on the following channels:
 Disclaimer
 ==========
 
-Some of the currently listed applications are still under development and/or experimental and may not be fully functional. 
+Some of the currently listed applications are still under development and/or experimental and may not be fully functional.
 Their documentation is not guaranteed to be hosted in this site indefinitely.
 
 .. toctree::
@@ -45,3 +45,4 @@ Their documentation is not guaranteed to be hosted in this site indefinitely.
    IFPS <applications/ipfs>
    HTTP Proxy <https://scion-http-proxy.readthedocs.io/en/latest/index.html>
    Browser Extension <https://scion-browser-extension.readthedocs.io/en/latest/>
+   Quake III Arena <applications/ioq3-scion.rst>
